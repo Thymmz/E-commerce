@@ -1,0 +1,14 @@
+{
+   "emmet.excludeLanguages": [
+
+      "markdown"
+   ],
+   "C_Cpp.files.exclude": {
+
+      "**/.vscode": true
+   },
+   "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+   }
+}
+
